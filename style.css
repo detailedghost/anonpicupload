@@ -1,0 +1,27 @@
+body{
+	color: #333;
+}
+
+#universe{
+	margin: 0 auto;
+	width: 500px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+	padding: 5% auto 5% 5%;
+	text-align: center;
+	opacity: .82;
+}
+
+#universe h1{
+	font-size: 1.65pc;
+}
+
+img{
+	width: 50%;	
+}
+
+input{
+	padding: 5px 5px;
+	border: 1px solid #000;
+	background-color: #0969A2;
+}
